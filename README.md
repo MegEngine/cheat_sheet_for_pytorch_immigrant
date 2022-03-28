@@ -1,0 +1,2 @@
+# cheat_sheet_for_pytorch_immigrant
+一份给从 PyTorch 迁移过来的用户的小抄
